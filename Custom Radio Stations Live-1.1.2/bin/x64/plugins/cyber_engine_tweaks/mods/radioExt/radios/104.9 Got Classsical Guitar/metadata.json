@@ -1,0 +1,15 @@
+{
+    "displayName" : "104.9 Got Classical Guitar",
+    "fm" : 104.9,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "http://206.217.213.235:8020/",
+        "isStream": true
+    },
+    "order": []
+}

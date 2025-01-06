@@ -1,0 +1,15 @@
+{
+    "displayName" : "103.7 Tejano",
+    "fm" : 103.7,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "https://stream.radio.co/sbd70e0cad/low",
+        "isStream": true
+    },
+    "order": []
+}

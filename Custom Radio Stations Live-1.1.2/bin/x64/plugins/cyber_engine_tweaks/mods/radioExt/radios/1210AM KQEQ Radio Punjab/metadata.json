@@ -1,0 +1,15 @@
+{
+    "displayName" : "1210AM KQEQ Radio Punjab",
+    "fm" : 121.0,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "https://stream-160.zeno.fm/2g80rm2g3s5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZzgwcm0yZzNzNXR2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImNqTU9iMjAyVHp5Y0JyaDBNNGtKSEEiLCJpYXQiOjE3MzYwNTUyMzYsImV4cCI6MTczNjA1NTI5Nn0.sThiwqwlGCAjrHf2B96FvVDJMDUuPvrqJosXi1fy9rs",
+        "isStream": true
+    },
+    "order": []
+}

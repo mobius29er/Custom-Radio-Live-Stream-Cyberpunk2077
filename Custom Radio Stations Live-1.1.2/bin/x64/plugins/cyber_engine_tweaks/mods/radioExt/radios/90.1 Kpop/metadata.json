@@ -1,0 +1,15 @@
+{
+    "displayName" : "90.1 KPOP",
+    "fm" : 90.1,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "http://31.132.6.142:9600/s",
+        "isStream": true
+    },
+    "order": []
+}

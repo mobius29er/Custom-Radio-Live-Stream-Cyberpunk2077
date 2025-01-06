@@ -1,0 +1,15 @@
+{
+    "displayName" : "1190AM Korean",
+    "fm" : 119.0,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "https://streamer.radio.co/scb2948df3/listen",
+        "isStream": true
+    },
+    "order": []
+}

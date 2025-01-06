@@ -1,0 +1,15 @@
+{
+    "displayName" : "89.6 Good Company",
+    "fm" : 89.6,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "https://www.streamcontrol.net:8444/s/12340",
+        "isStream": true
+    },
+    "order": []
+}

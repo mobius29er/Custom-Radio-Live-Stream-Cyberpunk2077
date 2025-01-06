@@ -1,0 +1,15 @@
+{
+    "displayName" : "104.7 Got 90s Rock",
+    "fm" : 104.7,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "http://206.217.213.235:8190/",
+        "isStream": true
+    },
+    "order": []
+}

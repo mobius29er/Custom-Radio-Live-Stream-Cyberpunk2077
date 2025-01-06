@@ -1,0 +1,15 @@
+{
+    "displayName" : "88.8 News",
+    "fm" : 88.8,
+    "volume" : 1.0,
+    "customIcon": {
+        "inkAtlasPath": "path\\to\\custom\\atlas.inkatlas",
+        "inkAtlasPart": "custom_texture_part",
+        "useCustom": false
+    },
+    "streamInfo": {
+        "streamURL": "http://17563.live.streamtheworld.com:3690/BLZE_1_SC",
+        "isStream": true
+    },
+    "order": []
+}
